@@ -2,7 +2,7 @@
 
 ## Hardware
 
-blablabla.
+blablabla.  
 dadasda
 
 
