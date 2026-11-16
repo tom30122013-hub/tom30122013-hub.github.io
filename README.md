@@ -2,6 +2,10 @@
 
 ## Hardware
 
+blablabla.
+dadasda
+
+
 ## Software
 
 **Fettdruck**
