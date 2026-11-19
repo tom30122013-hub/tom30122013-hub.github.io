@@ -2,22 +2,15 @@
 
 ## Hardware
 
-blablabla.  
-dadasda
+
 
 
 ## Software
 
-**Fettdruck**
 
-```C++
-int x=0;
 
-```
+# Erste Schritte
 
-### Erste Schritte
-
-#### FlexiBot
 
 
 
