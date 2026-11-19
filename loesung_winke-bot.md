@@ -1,4 +1,4 @@
 Lösung
 
 
-[Zurück zum Code](code_winke-bot.md)
+[Zurück zur Erklärung](code_winke-bot.md)
