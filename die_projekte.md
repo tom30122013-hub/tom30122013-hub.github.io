@@ -1,9 +1,7 @@
-#Projekte
+## Winke-Bot
 
-##Winke-Bot
+## Hinderniss-Bot
 
-##Hinderniss-Bot
+## Kanten-Bot
 
-##Kanten-Bot
-
-##Navi-Bot
+## Navi-Bot
