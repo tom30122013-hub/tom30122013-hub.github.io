@@ -11,7 +11,7 @@
 
 ## Erste Schritte
 
-Hi Leute
+
 
 
 
