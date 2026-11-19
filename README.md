@@ -1,6 +1,6 @@
 # FlexiBot
 
-## Hardware
+## [Hardware](hardware.md)
 
 
 
