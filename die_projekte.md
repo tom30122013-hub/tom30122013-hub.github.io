@@ -1,7 +1,7 @@
-## Winke-Bot
+## [Winke-Bot](winke-bot.md)
 
-## Hinderniss-Bot
+## [Hinderniss-Bot](hindernis-bot.md)
 
-## Kanten-Bot
+## [Kanten-Bot](kanten-bot.md)
 
-## Navi-Bot
+## [Navi-Bot](navi-bot.md)
