@@ -1,9 +1,7 @@
 Kanten-Bot
 
 
-## Der Code
+## [Der Code](code_kanten-bot.md)
 
 
 [Zurück zu den Projekten](die_projekte.md)
-
-[Zurück zur Startseite](README.md)
