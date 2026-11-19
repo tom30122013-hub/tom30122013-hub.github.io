@@ -2,4 +2,4 @@ Der Code
 
 
 
-#### [Lösung}
+#### [Lösung](loesung_winke-bot.md)
