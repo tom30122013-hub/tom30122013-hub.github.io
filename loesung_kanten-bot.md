@@ -1,4 +1,4 @@
-Die Lösung
+Lösung
 
 
 [Zurück zur Erklärung](code_kanten-bot.md)
