@@ -10,6 +10,8 @@ Durch winken heißt er dich willkommen!
 -Dem speziellen Aufsatz  
 -Der Halterung für den Motor
 
+## [Anleitung für verkabelung und Aufbau](anleitung_winke-bot.md)
+
 ## [Der Code](code_winke-bot.md)
 
 
