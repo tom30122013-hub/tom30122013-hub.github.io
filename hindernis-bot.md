@@ -5,7 +5,7 @@ bevor er auf das Hindernis trifft!
 
 ## Benötigte Materialien
 -Das vollständige Grundgestell  
--Der Ultraschallsensor  
+-Den Ultraschallsensor  
 -Die Halterung für den Ultraschallsensor(Schwarze Platte mit 2 Löchern)
 
 ## [Anleitung für verkabelung und Aufbau](anleitung_hindernis-bot.md)
