@@ -1,4 +1,10 @@
-Hindernis-Bot
+# Hindernis-Bot
+Der erste Sensor an deinem FlexiBot!  
+Hier lernst du, wie du deinen FlexiBot zum stoppen bringst, bevor er auf das Hindernis trifft!
+
+## Benötigte Materialien
+-Der Ultraschallsensor
+-Die Halterung für den Ultraschallsensor(Schwarze Platte mit 2 Löchern)
 
 
 
