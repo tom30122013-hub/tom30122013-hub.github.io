@@ -7,6 +7,8 @@ dass er nicht mehr von Tischen oder Sonstigem herunterfallen kann!
 -2x Infra-Rot Sensoren  
 -2x Standard Halterung 
 
+## Anleitung für Verkabelung
+
 
 
 ## [Der Code](code_kanten-bot.md)
