@@ -1,7 +1,7 @@
 # Winke-Bot
 
 Einer der ersten Lebenszeichen deines FlexiBots!  
-Durch winken heißt dich dein FlexiBot willkommen! 
+Durch winken heißt er dich willkommen! 
 
 ## [Der Code](code_winke-bot.md)
 
