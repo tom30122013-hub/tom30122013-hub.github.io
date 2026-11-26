@@ -1,6 +1,7 @@
 # Navi-Bot
 
 ## Benötigte Materialien:
+- Das fertig aufgebaute Grundgestell
 
 ## [Der Code](code_navi-bot.md)
 
