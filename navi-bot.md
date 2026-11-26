@@ -5,7 +5,7 @@ die dein FlexiBot nachfährt!
 
 
 ## Benötigte Materialien:
-- Das fertig aufgebaute Grundgestell
+- Das vollständige Grundgestell
 
 ## Anleitung
 Da dein FlexiBot schon soweit verkabelt ist,  
