@@ -6,7 +6,7 @@ Durch winken heißt er dich willkommen!
 ## Benötigte Materialien:
 1.Das fertig aufgebaute Grundgestell  
 2.Die 2. Ebene mit den 4 Stützen  
-**3.Den Servo-Motor mit:**  
+3.Den Servo-Motor mit:
   -Dem speziellen Aufsatz  
   -Der Halterung für den Motor
 
