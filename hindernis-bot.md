@@ -7,6 +7,8 @@ bevor er auf das Hindernis trifft!
 -Der Ultraschallsensor  
 -Die Halterung für den Ultraschallsensor(Schwarze Platte mit 2 Löchern)
 
+## [Anleitung für verkabelung und Aufbau](anleitung_hindernis-bot.md)
+
 
 
 ## [Der Code](code_hindernis-bot.md)
