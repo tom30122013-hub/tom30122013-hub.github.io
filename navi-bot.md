@@ -1,5 +1,6 @@
 # Navi-Bot
-Hier lernst du,  wie du deine eigenen Routen programmierst, die dein FlexiBot nachfährt!
+Hier lernst du,  
+wie du deine eigenen Routen programmierst, die dein FlexiBot nachfährt!
 
 
 ## Benötigte Materialien:
